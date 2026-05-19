@@ -94,7 +94,7 @@ The system integrates sensors, machine learning, and computer vision to provide 
 ## 👤 Author
 
 **Keval Sonariya**
-🔗 [GitHub Profile](https://github.com/)
+🔗 [GitHub Profile](https://github.com/KevalSonariya-dev)
 
 ---
 
