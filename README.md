@@ -49,7 +49,7 @@ The system integrates sensors, machine learning, and computer vision to provide 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/trivedisahil91/vehicle-alert-system-.git
+   git clone https://github.com/KevalSonariya-dev/vehicle-alert-system-.git
    cd vehicle-alert-system-
    ```
 2. **Install dependencies**
